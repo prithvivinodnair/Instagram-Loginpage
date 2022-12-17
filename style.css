@@ -1,0 +1,92 @@
+html{
+    text-align: center;
+}
+
+#i1{
+    height: 150px;
+    width: 150px;
+}
+
+#fb{
+    height: 20px;
+    width: 20px;
+}
+
+#username{
+    border: 1px solid black;
+    padding: 12px;
+    width: 250px;
+    height: 20px;
+    text-align: left;
+    background-color: lightgrey;
+    color: black;
+}
+
+#pw{
+    border: 1px solid black;
+    padding: 12px;
+    width: 250px;
+    height: 20px;
+    text-align: left;
+    background-color: lightgrey;
+    color: black;  
+}
+
+.login{
+    border: 1px solid;
+    padding: 12px;
+    width: 275px;
+    height: 45px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+.Get{
+    font-weight: bold;
+    color: black;
+}
+
+.blue{
+    color: blue;
+}
+
+.fade{
+    opacity: 0.5;
+}
+
+.border{
+    border: 1px solid lightgrey;
+    padding: 29px;
+    width: 450px;
+    margin-left: 450px;
+}
+
+.border2{
+    border: 1px solid lightgrey;
+    padding: 29px;
+    width: 450px;
+    margin-left: 450px;
+}
+
+#appstore{
+    width: 150px;
+}
+
+#googleplay{
+    width: 150px;
+}
+
+#u1{
+color: black;
+}
+
+#lang{
+    color: blue;
+    border: 1px solid lightgrey;
+    background-color: whitesmoke;
+}
+
+#facebook{
+    color: blue;
+}
